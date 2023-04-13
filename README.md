@@ -26,7 +26,8 @@ Here are some ideas to get you started:
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <br />
   <h2 align="left">State Management</h3>
-  <img width="40" height="40" style="padding: 10px;" src="https://mobx-state-tree.js.org/img/favicon.ico">
+  <p><img width="40" height="40" style="padding: 10px;" src="https://mobx-state-tree.js.org/img/favicon.ico">
   <img width="40" height="40"  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg">
+  </p>
 </p>
 
