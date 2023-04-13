@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working  at [Wiley](https://www.linkedin.com/company/john-wiley-and-sons/mycompany/verification/),
 - 🌱 I’m always learning.
 - 👯 I’m looking to collaborateanything.
