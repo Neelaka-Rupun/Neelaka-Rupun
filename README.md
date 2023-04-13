@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about  anything: I'll try my best to answer. Or else, we'll find the answers out, together.
 - 📫 How to reach me: rneelaka@gmail.com
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neelaka-Rupun&show_icons=true" alt="Neelaka Rupun" /></p>
 <h2 align="left">Technologies</h3>
 
 <p>
