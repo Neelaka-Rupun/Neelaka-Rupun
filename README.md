@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about  anything: I'll try my best to answer. Or else, we'll find the answers out, together.
 - 📫 How to reach me: rneelaka@gmail.com
 
-<h3 align="left">Technologies</h3>
+<h2 align="left">Technologies</h3>
 
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <br />
-  <h3 align="left">State Management</h3>
+  <h2 align="left">State Management</h3>
   <p>
-  <img width="40" height="40" style="padding: 10px;" src="https://mobx-state-tree.js.org/img/favicon.ico">&nbsp;&nbsp;
-  <img width="40" height="40"  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg">&nbsp;&nbsp;
+    <code><img width="40" height="40" style="padding: 10px;" src="https://mobx-state-tree.js.org/img/favicon.ico">&nbsp;&nbsp;</code>
+  <code><img width="40" height="40"  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg">&nbsp;&nbsp;</code>
   </p>
 </p>
 
