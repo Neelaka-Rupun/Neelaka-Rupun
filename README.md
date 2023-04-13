@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <br />
   <h2 align="left">State Management</h3>
   <p>
-    <code><img width="40" height="40" style="padding: 10px;" src="https://mobx-state-tree.js.org/img/favicon.ico">&nbsp;&nbsp;&nbsp;
+    <img width="40" height="40" style="padding: 10px;" src="https://mobx-state-tree.js.org/img/favicon.ico">&nbsp;&nbsp;&nbsp;
   <img width="40" height="40"  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg">&nbsp;&nbsp;&nbsp;
   </p>
 </p>
