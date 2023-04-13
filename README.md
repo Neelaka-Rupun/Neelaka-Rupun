@@ -6,6 +6,7 @@
 - 💬 Ask me about  anything: I'll try my best to answer. Or else, we'll find the answers out, together.
 - 📫 How to reach me: rneelaka@gmail.com
 
+<p>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Neelaka-Rupun&theme=dark)](https://git.io/streak-stats)</p>
 <h2 align="left">Technologies</h3>
 
 <p>
