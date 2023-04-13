@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working  at [Wiley](https://www.linkedin.com/company/john-wiley-and-sons/mycompany/verification/),
 - 🌱 I’m always learning.
-- 👯 I’m looking to collaborateanything.
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate anything.
 - 💬 Ask me about  anything: I'll try my best to answer. Or else, we'll find the answers out, together.
 - 📫 How to reach me: rneelaka@gmail.com
 
