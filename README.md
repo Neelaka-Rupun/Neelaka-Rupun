@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   <code style="padding: 10px;"><img width="40" height="40" padding="10" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
-  <code style="padding: 10px;">
-    <img width="40" height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg">
+  <code">
+    <img width="40" height="40" style="padding: 10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg">
   </code>
   <br />
 </p>
