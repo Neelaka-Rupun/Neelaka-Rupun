@@ -22,7 +22,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <br />
-  <h2 align="left">State Management</h3>
+  <h2 align="left"> React State Management</h3>
   <p>
     <img width="40" height="40" style="padding: 10px;" src="https://mobx-state-tree.js.org/img/favicon.ico">&nbsp;&nbsp;&nbsp;
   <img width="40" height="40"  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg">&nbsp;&nbsp;&nbsp;
