@@ -31,7 +31,7 @@
 </p>
 [//]: # (### Socials & Visit Count)
 
-[//]: # (<a><img src="https://profile-counter.glitch.me/chanuka/count.svg" width="150px"/></a>)
+[//]: # (<a><img src="https://profile-counter.glitch.me/Neelaka-Rupun/count.svg" width="150px"/></a>)
 
 ### GitHub's Data Statistics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Neelaka-Rupun&theme=dark&background=000000)](https://git.io/streak-stats)
