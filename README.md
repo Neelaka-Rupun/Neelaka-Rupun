@@ -2,12 +2,26 @@
 <div align="center">
     <a><img src="https://profile-counter.glitch.me/Neelaka-Rupun/count.svg" width="150px"/></a>
 </div>
-
+<br/>
 - 🔭 I’m currently working  at [Wiley](https://www.linkedin.com/company/john-wiley-and-sons/mycompany/verification/),
 - 🌱 I’m always learning.
 - 👯 I’m looking to collaborate anything.
 - 💬 Ask me about  anything: I'll try my best to answer. Or else, we'll find the answers out, together.
 - 📫 How to reach me: rneelaka@gmail.com
+
+<br/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/neelaka-rupun/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@cdinuwan">
+    <img src="https://medium.com/@neelakarupun" alt="Medium Badge"/>
+  </a>
+</div>
+<br/>
 
 <h2 align="left">Technologies</h3>
 
