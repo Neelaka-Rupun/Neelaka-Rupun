@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a><img src="https://profile-counter.glitch.me/Neelaka-Rupun/count.svg" width="150px"/></a>
+<div align='center><img src="https://profile-counter.glitch.me/Neelaka-Rupun/count.svg" width="150px"/></div>
 - 🔭 I’m currently working  at [Wiley](https://www.linkedin.com/company/john-wiley-and-sons/mycompany/verification/),
 - 🌱 I’m always learning.
 - 👯 I’m looking to collaborate anything.
