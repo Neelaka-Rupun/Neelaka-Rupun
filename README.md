@@ -29,6 +29,11 @@
   <img width="40" height="40"  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg">&nbsp;&nbsp;&nbsp;
   </p>
 </p>
+[//]: # (### Socials & Visit Count)
+
+[//]: # (<a><img src="https://profile-counter.glitch.me/chanuka/count.svg" width="150px"/></a>)
+
+### GitHub's Data Statistics
 ### GitHub's Data Statistics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cdinuwan&theme=dark&background=000000)](https://git.io/streak-stats)
 
