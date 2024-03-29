@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/neelaka-rupun/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@cdinuwan](https://medium.com/@neelakarupun">
+  <a href="https://medium.com/@neelakarupun)">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
  </div>
