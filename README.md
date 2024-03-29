@@ -1,6 +1,14 @@
 ### Hi there 👋
 <div align="center">
-    <a><img src="https://profile-counter.glitch.me/Neelaka-Rupun/count.svg" width="150px"/></a>
+ <a><img src="https://profile-counter.glitch.me/Neelaka-Rupun/count.svg" width="150px"/></a>
+ <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/neelaka-rupun/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@cdinuwan](https://medium.com/@neelakarupun">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+ </div>
 </div>
 <br/>
 
@@ -11,14 +19,7 @@
 - 📫 How to reach me: rneelaka@gmail.com
 
 <br/>
-  <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/neelaka-rupun/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://medium.com/@cdinuwan">
-    <img src="https://medium.com/@neelakarupun" alt="Medium Badge"/>
-  </a>
-</div>
+  
 <br/>
 
 <h2 align="left">Technologies</h3>
