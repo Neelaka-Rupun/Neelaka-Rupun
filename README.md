@@ -29,11 +29,9 @@
   <img width="40" height="40"  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg">&nbsp;&nbsp;&nbsp;
   </p>
 </p>
-[//]: # (### Socials & Visit Count)
 
 [//]: # (<a><img src="https://profile-counter.glitch.me/Neelaka-Rupun/count.svg" width="150px"/></a>)
 
 ### GitHub's Data Statistics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Neelaka-Rupun&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neelaka-Rupun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
