@@ -29,4 +29,7 @@
   <img width="40" height="40"  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg">&nbsp;&nbsp;&nbsp;
   </p>
 </p>
+### GitHub's Data Statistics
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cdinuwan&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdinuwan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
