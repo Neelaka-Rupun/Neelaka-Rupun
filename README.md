@@ -1,6 +1,5 @@
 ### Hi there 👋
 <div align="center">
- <a><img src="https://profile-counter.glitch.me/Neelaka-Rupun/count.svg" width="150px"/></a>
  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/neelaka-rupun/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
