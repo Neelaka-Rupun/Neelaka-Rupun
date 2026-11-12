@@ -12,9 +12,9 @@
 </div>
 
 - 🌱 I’m always learning.
-- 👯 I’m looking to collaborate anything.
-- 💬 Ask me about  anything: I'll try my best to answer. Or else, we'll find the answers out, together.
-- 📫 How to reach me: rneelaka@gmail.com
+- I’m looking to collaborate anything.
+- Ask me about  anything: I'll try my best to answer. Or else, we'll find the answers out, together.
+- How to reach me: rneelaka@gmail.com
   
 <h2 align="left">Technologies</h3>
 
